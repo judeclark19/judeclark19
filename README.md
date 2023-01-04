@@ -17,4 +17,4 @@ My name is Jude Clark. I am 30 years old and I live in Atlanta, GA. I started my
   - she
   - her
 - ⚡ Fun fact: ...
-  - I absolutely love tutoring bootcamp students!
+  - I absolutely love tutoring bootcamp students and helping them complete the same process that I went through!
