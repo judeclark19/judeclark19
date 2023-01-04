@@ -23,3 +23,9 @@ My name is Jude Clark. I am 30 years old and I live in Atlanta, GA. I started my
   - her
 - ⚡ Fun fact: ...
   - I absolutely love tutoring bootcamp students and helping them complete the same process that I went through!
+
+![](https://github-readme-stats.vercel.app/api?username=judeclark19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=judeclark19&theme=synthwave&hide_border=false&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=judeclark19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
