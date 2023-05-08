@@ -7,20 +7,19 @@ My name is Jude Clark. I am 30 years old and I live in Atlanta, GA. I started my
 
 - 🔭 I’m currently working on ...
   - [play.staratlas.com](https://play.staratlas.com/)
-  - www.develop-this.com
+  - [develop-this.com](https://www.develop-this.com/)
 - ✏️ The programming language I use most is ...
   -  TypeScript
-- 🌱 I’m currently learning ...
-  - [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-  - Jest and Cypress
+- 🗓️ I host free online events on the [DevelopThis](https://www.develop-this.com/) server...
+  - Teaching HTML,CSS,JS and MERN stack most Tuesday nights at 8PM E
+  - Office Hours most Thursday nights at 8pm E
 - 💬 Ask me about 
   - RuPaul's Drag Race
 - 📫 How to reach me: ...
   - discord spacialfray#5833
   - email judeclark2019@gmail.com
 - 😄 Pronouns: ...
-  - she
-  - her
+  - she/her
 
 ![](https://github-readme-stats.vercel.app/api?username=judeclark19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
