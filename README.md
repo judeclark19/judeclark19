@@ -10,9 +10,7 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
   - [develop-this.com](https://www.develop-this.com/)
 - ✏️ The programming language I use most is ...
   -  TypeScript
-- 🗓️ I host free online events on the [DevelopThis](https://www.develop-this.com/) server...
-  - Teaching HTML,CSS,JS and MERN stack most Tuesday nights at 8PM E
-  - Office Hours most Thursday nights at 8pm E
+- 🗓️ I host free online events on the [DevelopThis](https://www.develop-this.com/) server teaching Next.js best practices most Tuesday nights at 8PM E
 - 💬 Ask me about 
   - RuPaul's Drag Race
 - 📫 How to reach me: ...
