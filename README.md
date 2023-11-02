@@ -7,7 +7,7 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
 
 - 🔭 Current Work ...
 - - 🏦 Proprietary work for clients of [Look Listen](https://www.looklisten.com/)
-  - 🚧 [Mini-Games](https://github.com/judeclark19/mini-games) my just for fun/practice side project
+  - 🚧 [Home Videos](https://github.com/judeclark19/home-videos) personal project to organize and share our old home videos that have been digitized
   - 🕸️ [develop-this.com](https://www.develop-this.com/)
 - ✏️ The programming language I use most is ...
   -  HTML and CSS
