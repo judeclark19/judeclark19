@@ -10,7 +10,7 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
   - 🚧 [Home Videos](https://github.com/judeclark19/home-videos) personal project to organize and share our old home videos that have been digitized
   - 🕸️ [develop-this.com](https://www.develop-this.com/)
 - ✏️ The programming language I use most is ...
-  -  HTML and CSS
+  -  HTML, CSS and JS
 - 🗓️ I host free online events on the [DevelopThis](https://www.develop-this.com/) server most Tuesday nights at 8PM E
 - 💬 Ask me about 
   - RuPaul's Drag Race
