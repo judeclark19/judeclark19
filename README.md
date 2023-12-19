@@ -15,7 +15,7 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
 - 💬 Ask me about 
   - RuPaul's Drag Race
 - 📫 How to reach me: ...
-  - discord spacialfray#5833
+  - discord code_couture
   - email judeclark2019@gmail.com
 - 😄 Pronouns: ...
   - she/her
