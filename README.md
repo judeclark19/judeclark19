@@ -1,4 +1,5 @@
-### Welcome!
+Welcome to
+## Code Couture
 
 My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my coding career with a fullstack bootcamp in 2020, and now I am loving life as a Front End Developer for [Look Listen](https://github.com/looklisten)! I also tutor and teach [fullstack bootcamp content](https://github.com/coding-boot-camp). I absolutely love helping bootcamp students complete the same process that I went through! Finally, I am one of the founding members of [Develop This](https://github.com/DevelopThisOfficial).
 
