@@ -7,10 +7,14 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
 
 - 🔭 Current Work ...
 - - 🏦 Proprietary work for clients of [Look Listen](https://www.looklisten.com/)
-  - 🚧 [Home Videos](https://github.com/judeclark19/home-videos-2) personal project to organize and share our old home videos that have been digitized
+  - 🃏 [V-Cell](https://github.com/judeclark19/react-solitaire) a twist on FreeCell
+  - 📹 [Home Videos](https://github.com/judeclark19/home-videos-2) personal project to organize and share our old home videos that have been digitized
   - 🕸️ [develop-this.com](https://www.develop-this.com/)
-- ✏️ The programming language I use most is ...
-  -  HTML, CSS and JS
+- ✏️ The technologies I use the most are ...
+  - HTML, CSS and JS
+  - Handlebars.js
+  - Node.js, Express, and MongoDB
+  - Next.js
 - 🗓️ I host free online events on the [DevelopThis](https://www.develop-this.com/) server most Tuesday nights at 8PM E
 - 💬 Ask me about 
   - RuPaul's Drag Race
