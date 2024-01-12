@@ -11,6 +11,9 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
   - UNDER CONSTRUCTION -🃏 [V-Cell](https://github.com/judeclark19/react-solitaire) a twist on FreeCell
   - 📹 [Home Videos](https://github.com/judeclark19/home-videos-2) personal project to organize and share our old home videos that have been digitized
   - 🕸️ [develop-this.com](https://www.develop-this.com/)
+- ❓ Would you like a personal website such as those listed above? Please reach me at:
+  - discord code_couture
+  - email judeclark2019@gmail.com
 - ✏️ The technologies I use the most are ...
   - HTML, CSS and JS
   - Handlebars.js
