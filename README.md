@@ -19,7 +19,6 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
   - Handlebars.js
   - Node.js, Express, and MongoDB
   - Next.js
-- 🗓️ I host free online events on the [DevelopThis](https://www.develop-this.com/) server most Tuesday nights at 8PM E
 - 💬 Ask me about 
   - RuPaul's Drag Race
 - 📫 How to reach me: ...
