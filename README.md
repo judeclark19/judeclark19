@@ -15,9 +15,9 @@ My name is Jude Clark. I am 31 years old and I live in Atlanta, GA. I started my
   - email judeclark2019@gmail.com
 - ✏️ The technologies I use the most are ...
   - HTML, CSS and JS
+  - Next.js
   - Handlebars.js
   - Node.js, Express, and MongoDB
-  - Next.js
 - 💬 Ask me about 
   - RuPaul's Drag Race
 - 📫 How to reach me: ...
