@@ -10,6 +10,7 @@ My name is Jude Clark. I am 32 years old and I live in Atlanta, GA. I started my
 - - 🏦 Proprietary work for clients of [Look Listen](https://www.looklisten.com/)
   - 🃏 [V-Cell](https://github.com/judeclark19/v-cell) a twist on FreeCell
   - 📹 [Home Videos](https://github.com/judeclark19/home-videos-2) personal project to organize and share our old home videos that have been digitized
+  - 🎮 [Bits and Bobs](https://github.com/judeclark19/bits-and-bobs) clones of mini games such as wordle, minesweeper and snake
 - ❓ Would you like a personal website such as those listed above? Please reach me at:
   - discord code_couture
   - email judeclark2019@gmail.com
