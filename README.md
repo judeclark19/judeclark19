@@ -19,6 +19,7 @@ My name is Jude Clark. I am 32 years old and I live in Atlanta, GA. I started my
   - Next.js
   - Handlebars.js
   - Node.js, Express, and MongoDB
+  - Firebase and Firestore
 - 💬 Ask me about 
   - RuPaul's Drag Race
 - 📫 How to reach me: ...
