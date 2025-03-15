@@ -10,7 +10,6 @@ My name is Jude Clark. I am 32 years old and I live in Atlanta, GA. I started my
 - - 🏦 Proprietary work for clients of [Look Listen](https://www.looklisten.com/)
   - 🕎 [Virtual Menorah](https://github.com/judeclark19/menorah-2024) inspired by 2020 when we had to zoom everything including Hanukkah
   - 🃏 [V-Cell](https://github.com/judeclark19/v-cell) a twist on FreeCell
-  - 📹 [Home Videos](https://github.com/judeclark19/home-videos-2) personal project to organize and share our old home videos that have been digitized
   - 🎮 [Bits and Bobs](https://github.com/judeclark19/bits-and-bobs) clones of mini games such as wordle, minesweeper and snake
 - ✏️ The technologies I use the most are ...
   - HTML, CSS and JS
