@@ -7,7 +7,7 @@ My name is Jude Clark. I am 33 years old and I live in Atlanta, GA. I started my
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 
 - 🔭 Projects
-- - 🎭 [Verkaikings](https://github.com/judeclark19/verkaikings) Custom website for the fans of Willemijn Verkaik
+  - 🎭 [Verkaikings](https://github.com/judeclark19/verkaikings) Custom website for the fans of Willemijn Verkaik
   - 🕎 [Virtual Menorah](https://github.com/judeclark19/menorah-2024) inspired by 2020 when we had to zoom everything including Hanukkah
   - 🃏 [V-Cell](https://github.com/judeclark19/v-cell) a twist on FreeCell
   - 🎮 [Bits and Bobs](https://github.com/judeclark19/bits-and-bobs) clones of mini games such as wordle, minesweeper and snake
