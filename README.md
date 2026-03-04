@@ -13,13 +13,13 @@ My name is Jude Clark. I am 33 years old and I live in Atlanta, GA. I started my
   - 🎭 [Verkaikings](https://github.com/judeclark19/verkaikings) Custom website for the fans of Willemijn Verkaik
   - 🕎 [Virtual Menorah](https://github.com/judeclark19/menorah-2024) inspired by 2020 when we had to zoom everything including Hanukkah
 
-- ✏️ The technologies I use the most are ...
-  - HTML, CSS and JS
-  - Next.js
-  - TypeScript
-  - MobX, Redux & RTK
-  - Node.js, Express, and MongoDB
-  - Firebase and Firestore
+- ✏️ Technologies I use most often
+  - TypeScript, JavaScript
+  - React / Next.js
+  - State management: Redux (RTK), MobX
+  - Backend: Node.js, Express
+  - Databases: MongoDB, Firebase / Firestore
+  - Web fundamentals: HTML, CSS
     
 - 💬 Ask me about 
   - RuPaul's Drag Race
